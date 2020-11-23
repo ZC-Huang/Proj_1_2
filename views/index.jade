@@ -1,0 +1,115 @@
+extends layout
+
+block content
+  h1 Tenant Info and Amenity Reservation Management System
+
+  if err
+    div.alert.alert-danger= err
+
+  if msg
+    div.alert.alert-success= msg
+
+  .row
+    .col-3
+      h2 Current Tenants
+      div
+        each s in tenants
+          form.p-2(action="/index/tdelete" method="POST")
+            input.flex-shrink-1.m-1(style="min-width:20px" type="hidden" name="_id" value=s._id)
+
+            label.form-group First Name:
+              input.form-control.m-1(style="min-width:20px" type="text" name="firstName" value=s.firstName)
+            label.form-group Last Name:
+              input.form-control.m-1(style="min-width:20px" type="text" name="lastName" value=s.lastName)
+            .form-group
+              button.m-1.btn.btn-danger(type="submit" formaction="/index/tdelete") Delete
+              button.m-1.btn.btn-secondary(type="submit" formaction="/index/tupdate") Update
+            hr
+
+      nav(aria-label="Page navigation example")
+        ul(class="pagination")
+          li(class="page-item")
+            a(class="page-link" href="/index?page=1") 1
+          li(class="page-item")
+            a(class="page-link" href="/index?page=2") 2
+          li(class="page-item")
+            a(class="page-link" href="/index?page=3") 3
+
+    .col-3
+      h2 Create New Tenants
+
+      form(action="/index/tcreate", method="post")
+        .form-group
+          label Last Name
+            input.form-control(type="text", name="lastName")
+        .form-group
+          label First Name
+            input.form-control(type="text", name="firstName")
+
+        button.btn.btn-primary(type="submit") Create New Tenant
+
+    .col-3
+      h2 Current Reservations
+      div
+        each k in amenityReservations
+          form.p-2(action="/index/rdelete" method="POST")
+            input.flex-shrink-1.m-1(style="min-width:20px" type="hidden" name="_id" value=k._id)
+            label.form-group Date:
+              input.form-control.m-1(style="min-width:20px" type="text" name="dateTime" value=k.dateTime)
+            label.form-group Amenity ID:
+              input.form-control.m-1(style="min-width:20px" type="number" name="amenityID" value=k.amenityID)
+            label.form-group Duration:
+              input.form-control.m-1(style="min-width:20px" type="number" name="durationHrs" value=k.durationHrs)
+            label.form-group Tenant ID:
+              input.form-control.m-1(style="min-width:20px" type="number" name="tenantID" value=k.tenantID)
+            .form-group
+              button.m-1.btn.btn-danger(type="submit" formaction="/index/rdelete") Delete
+              button.m-1.btn.btn-secondary(type="submit" formaction="/index/rupdate") Update
+            hr
+      nav(aria-label="Page navigation example")
+        ul(class="pagination")
+          li(class="page-item")
+            a(class="page-link" href="/index?page=1") 1
+          li(class="page-item")
+            a(class="page-link" href="/index?page=2") 2
+          li(class="page-item")
+            a(class="page-link" href="/index?page=3") 3
+
+    .col-3
+      h2 Create New Reservations
+
+      form(action="/index/rcreate", method="post")
+        .form-group
+          label Date
+            input.form-control(type="text", name="dateTime")
+        .form-group
+          label Amenity ID
+            input.form-control(type="number", name="amenityID")
+        .form-group
+          label Duration
+            input.form-control(type="number", name="durationHrs")
+        .form-group
+          label Tenant ID
+            input.form-control(type="number", name="tenantID")
+        button.btn.btn-primary(type="submit") Create New Tenant
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+//- then end
