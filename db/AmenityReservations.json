@@ -1,0 +1,702 @@
+[
+    {
+        "amenityID": 906,
+        "dateTime": "02/03/2020",
+        "durationHrs": 2.5,
+        "reservationID": 9001,
+        "tenantID": 5049
+    },
+    {
+        "amenityID": 902,
+        "dateTime": "09/13/2020",
+        "durationHrs": 1,
+        "reservationID": 9002,
+        "tenantID": 5074
+    },
+    {
+        "amenityID": 906,
+        "dateTime": "01/06/2020",
+        "durationHrs": 0.5,
+        "reservationID": 9003,
+        "tenantID": 5003
+    },
+    {
+        "amenityID": 906,
+        "dateTime": "02/27/2020",
+        "durationHrs": 1.5,
+        "reservationID": 9004,
+        "tenantID": 5001
+    },
+    {
+        "amenityID": 904,
+        "dateTime": "05/27/2020",
+        "durationHrs": 1.5,
+        "reservationID": 9005,
+        "tenantID": 5003
+    },
+    {
+        "amenityID": 904,
+        "dateTime": "12/10/2019",
+        "durationHrs": 1.5,
+        "reservationID": 9006,
+        "tenantID": 5050
+    },
+    {
+        "amenityID": 905,
+        "dateTime": "03/13/2020",
+        "durationHrs": 1,
+        "reservationID": 9007,
+        "tenantID": 5002
+    },
+    {
+        "amenityID": 904,
+        "dateTime": "11/02/2019",
+        "durationHrs": 0.5,
+        "reservationID": 9008,
+        "tenantID": 5001
+    },
+    {
+        "amenityID": 905,
+        "dateTime": "12/27/2019",
+        "durationHrs": 3,
+        "reservationID": 9009,
+        "tenantID": 5021
+    },
+    {
+        "amenityID": 906,
+        "dateTime": "10/07/2020",
+        "durationHrs": 3,
+        "reservationID": 9010,
+        "tenantID": 5011
+    },
+    {
+        "amenityID": 906,
+        "dateTime": "11/30/2019",
+        "durationHrs": 0.5,
+        "reservationID": 9011,
+        "tenantID": 5017
+    },
+    {
+        "amenityID": 901,
+        "dateTime": "11/02/2019",
+        "durationHrs": 3,
+        "reservationID": 9012,
+        "tenantID": 5029
+    },
+    {
+        "amenityID": 906,
+        "dateTime": "11/15/2019",
+        "durationHrs": 1,
+        "reservationID": 9013,
+        "tenantID": 5029
+    },
+    {
+        "amenityID": 904,
+        "dateTime": "07/27/2020",
+        "durationHrs": 2,
+        "reservationID": 9014,
+        "tenantID": 5051
+    },
+    {
+        "amenityID": 904,
+        "dateTime": "12/16/2019",
+        "durationHrs": 3,
+        "reservationID": 9015,
+        "tenantID": 5006
+    },
+    {
+        "amenityID": 906,
+        "dateTime": "02/06/2020",
+        "durationHrs": 1,
+        "reservationID": 9016,
+        "tenantID": 5074
+    },
+    {
+        "amenityID": 904,
+        "dateTime": "12/29/2019",
+        "durationHrs": 1,
+        "reservationID": 9017,
+        "tenantID": 5004
+    },
+    {
+        "amenityID": 906,
+        "dateTime": "04/04/2020",
+        "durationHrs": 3,
+        "reservationID": 9018,
+        "tenantID": 5005
+    },
+    {
+        "amenityID": 905,
+        "dateTime": "12/28/2019",
+        "durationHrs": 2,
+        "reservationID": 9019,
+        "tenantID": 5018
+    },
+    {
+        "amenityID": 903,
+        "dateTime": "09/10/2020",
+        "durationHrs": 2.5,
+        "reservationID": 9020,
+        "tenantID": 5023
+    },
+    {
+        "amenityID": 904,
+        "dateTime": "10/09/2020",
+        "durationHrs": 2,
+        "reservationID": 9021,
+        "tenantID": 5036
+    },
+    {
+        "amenityID": 902,
+        "dateTime": "08/10/2020",
+        "durationHrs": 1.5,
+        "reservationID": 9022,
+        "tenantID": 5075
+    },
+    {
+        "amenityID": 901,
+        "dateTime": "11/16/2019",
+        "durationHrs": 0.5,
+        "reservationID": 9023,
+        "tenantID": 5001
+    },
+    {
+        "amenityID": 906,
+        "dateTime": "02/15/2020",
+        "durationHrs": 0.5,
+        "reservationID": 9024,
+        "tenantID": 5007
+    },
+    {
+        "amenityID": 902,
+        "dateTime": "11/30/2019",
+        "durationHrs": 1.5,
+        "reservationID": 9025,
+        "tenantID": 5072
+    },
+    {
+        "amenityID": 904,
+        "dateTime": "04/10/2020",
+        "durationHrs": 0.5,
+        "reservationID": 9026,
+        "tenantID": 5052
+    },
+    {
+        "amenityID": 902,
+        "dateTime": "05/09/2020",
+        "durationHrs": 1.5,
+        "reservationID": 9027,
+        "tenantID": 5045
+    },
+    {
+        "amenityID": 906,
+        "dateTime": "12/04/2019",
+        "durationHrs": 2.5,
+        "reservationID": 9028,
+        "tenantID": 5054
+    },
+    {
+        "amenityID": 902,
+        "dateTime": "06/20/2020",
+        "durationHrs": 1,
+        "reservationID": 9029,
+        "tenantID": 5045
+    },
+    {
+        "amenityID": 906,
+        "dateTime": "12/22/2019",
+        "durationHrs": 0.5,
+        "reservationID": 9030,
+        "tenantID": 5002
+    },
+    {
+        "amenityID": 906,
+        "dateTime": "06/26/2020",
+        "durationHrs": 1.5,
+        "reservationID": 9031,
+        "tenantID": 5039
+    },
+    {
+        "amenityID": 904,
+        "dateTime": "07/16/2020",
+        "durationHrs": 2.5,
+        "reservationID": 9032,
+        "tenantID": 5007
+    },
+    {
+        "amenityID": 904,
+        "dateTime": "12/09/2019",
+        "durationHrs": 1,
+        "reservationID": 9033,
+        "tenantID": 5064
+    },
+    {
+        "amenityID": 901,
+        "dateTime": "10/26/2020",
+        "durationHrs": 1,
+        "reservationID": 9034,
+        "tenantID": 5028
+    },
+    {
+        "amenityID": 904,
+        "dateTime": "03/10/2020",
+        "durationHrs": 0.5,
+        "reservationID": 9035,
+        "tenantID": 5020
+    },
+    {
+        "amenityID": 906,
+        "dateTime": "03/16/2020",
+        "durationHrs": 1.5,
+        "reservationID": 9036,
+        "tenantID": 5040
+    },
+    {
+        "amenityID": 901,
+        "dateTime": "02/08/2020",
+        "durationHrs": 3,
+        "reservationID": 9037,
+        "tenantID": 5008
+    },
+    {
+        "amenityID": 902,
+        "dateTime": "10/06/2020",
+        "durationHrs": 1,
+        "reservationID": 9038,
+        "tenantID": 5005
+    },
+    {
+        "amenityID": 904,
+        "dateTime": "03/14/2020",
+        "durationHrs": 1.5,
+        "reservationID": 9039,
+        "tenantID": 5058
+    },
+    {
+        "amenityID": 903,
+        "dateTime": "02/26/2020",
+        "durationHrs": 2.5,
+        "reservationID": 9040,
+        "tenantID": 5067
+    },
+    {
+        "amenityID": 906,
+        "dateTime": "11/05/2019",
+        "durationHrs": 0.5,
+        "reservationID": 9041,
+        "tenantID": 5048
+    },
+    {
+        "amenityID": 902,
+        "dateTime": "08/22/2020",
+        "durationHrs": 3,
+        "reservationID": 9042,
+        "tenantID": 5032
+    },
+    {
+        "amenityID": 905,
+        "dateTime": "03/04/2020",
+        "durationHrs": 0.5,
+        "reservationID": 9043,
+        "tenantID": 5056
+    },
+    {
+        "amenityID": 904,
+        "dateTime": "06/28/2020",
+        "durationHrs": 0.5,
+        "reservationID": 9044,
+        "tenantID": 5064
+    },
+    {
+        "amenityID": 903,
+        "dateTime": "12/15/2019",
+        "durationHrs": 1,
+        "reservationID": 9046,
+        "tenantID": 5026
+    },
+    {
+        "amenityID": 906,
+        "dateTime": "05/14/2020",
+        "durationHrs": 2.5,
+        "reservationID": 9047,
+        "tenantID": 5012
+    },
+    {
+        "amenityID": 901,
+        "dateTime": "05/07/2020",
+        "durationHrs": 2.5,
+        "reservationID": 9048,
+        "tenantID": 5002
+    },
+    {
+        "amenityID": 903,
+        "dateTime": "03/09/2020",
+        "durationHrs": 1,
+        "reservationID": 9049,
+        "tenantID": 5075
+    },
+    {
+        "amenityID": 905,
+        "dateTime": "09/03/2020",
+        "durationHrs": 1.5,
+        "reservationID": 9050,
+        "tenantID": 5029
+    },
+    {
+        "amenityID": 903,
+        "dateTime": "10/08/2020",
+        "durationHrs": 2,
+        "reservationID": 9051,
+        "tenantID": 5013
+    },
+    {
+        "amenityID": 906,
+        "dateTime": "10/05/2020",
+        "durationHrs": 2.5,
+        "reservationID": 9052,
+        "tenantID": 5069
+    },
+    {
+        "amenityID": 901,
+        "dateTime": "10/19/2020",
+        "durationHrs": 1,
+        "reservationID": 9053,
+        "tenantID": 5064
+    },
+    {
+        "amenityID": 906,
+        "dateTime": "05/26/2020",
+        "durationHrs": 1,
+        "reservationID": 9054,
+        "tenantID": 5054
+    },
+    {
+        "amenityID": 903,
+        "dateTime": "04/29/2020",
+        "durationHrs": 3,
+        "reservationID": 9055,
+        "tenantID": 5068
+    },
+    {
+        "amenityID": 903,
+        "dateTime": "06/14/2020",
+        "durationHrs": 1,
+        "reservationID": 9056,
+        "tenantID": 5012
+    },
+    {
+        "amenityID": 902,
+        "dateTime": "04/26/2020",
+        "durationHrs": 3,
+        "reservationID": 9057,
+        "tenantID": 5007
+    },
+    {
+        "amenityID": 903,
+        "dateTime": "07/16/2020",
+        "durationHrs": 2.5,
+        "reservationID": 9058,
+        "tenantID": 5023
+    },
+    {
+        "amenityID": 901,
+        "dateTime": "11/04/2019",
+        "durationHrs": 1.5,
+        "reservationID": 9059,
+        "tenantID": 5048
+    },
+    {
+        "amenityID": 906,
+        "dateTime": "10/18/2020",
+        "durationHrs": 1.5,
+        "reservationID": 9060,
+        "tenantID": 5070
+    },
+    {
+        "amenityID": 903,
+        "dateTime": "08/18/2020",
+        "durationHrs": 0.5,
+        "reservationID": 9061,
+        "tenantID": 5042
+    },
+    {
+        "amenityID": 901,
+        "dateTime": "08/28/2020",
+        "durationHrs": 2,
+        "reservationID": 9062,
+        "tenantID": 5073
+    },
+    {
+        "amenityID": 902,
+        "dateTime": "01/03/2020",
+        "durationHrs": 2,
+        "reservationID": 9063,
+        "tenantID": 5024
+    },
+    {
+        "amenityID": 902,
+        "dateTime": "09/20/2020",
+        "durationHrs": 2,
+        "reservationID": 9064,
+        "tenantID": 5037
+    },
+    {
+        "amenityID": 902,
+        "dateTime": "09/10/2020",
+        "durationHrs": 0.5,
+        "reservationID": 9065,
+        "tenantID": 5048
+    },
+    {
+        "amenityID": 904,
+        "dateTime": "02/19/2020",
+        "durationHrs": 2.5,
+        "reservationID": 9066,
+        "tenantID": 5060
+    },
+    {
+        "amenityID": 906,
+        "dateTime": "12/01/2019",
+        "durationHrs": 1.5,
+        "reservationID": 9067,
+        "tenantID": 5052
+    },
+    {
+        "amenityID": 901,
+        "dateTime": "01/24/2020",
+        "durationHrs": 0.5,
+        "reservationID": 9068,
+        "tenantID": 5075
+    },
+    {
+        "amenityID": 906,
+        "dateTime": "10/20/2020",
+        "durationHrs": 3,
+        "reservationID": 9069,
+        "tenantID": 5001
+    },
+    {
+        "amenityID": 903,
+        "dateTime": "08/27/2020",
+        "durationHrs": 2,
+        "reservationID": 9070,
+        "tenantID": 5004
+    },
+    {
+        "amenityID": 901,
+        "dateTime": "03/13/2020",
+        "durationHrs": 0.5,
+        "reservationID": 9071,
+        "tenantID": 5051
+    },
+    {
+        "amenityID": 905,
+        "dateTime": "07/26/2020",
+        "durationHrs": 1,
+        "reservationID": 9072,
+        "tenantID": 5068
+    },
+    {
+        "amenityID": 906,
+        "dateTime": "06/26/2020",
+        "durationHrs": 3,
+        "reservationID": 9073,
+        "tenantID": 5019
+    },
+    {
+        "amenityID": 903,
+        "dateTime": "02/13/2020",
+        "durationHrs": 3,
+        "reservationID": 9074,
+        "tenantID": 5018
+    },
+    {
+        "amenityID": 903,
+        "dateTime": "12/15/2019",
+        "durationHrs": 3,
+        "reservationID": 9075,
+        "tenantID": 5011
+    },
+    {
+        "amenityID": 905,
+        "dateTime": "06/11/2020",
+        "durationHrs": 1,
+        "reservationID": 9076,
+        "tenantID": 5004
+    },
+    {
+        "amenityID": 905,
+        "dateTime": "11/04/2019",
+        "durationHrs": 1.5,
+        "reservationID": 9077,
+        "tenantID": 5025
+    },
+    {
+        "amenityID": 905,
+        "dateTime": "03/26/2020",
+        "durationHrs": 2,
+        "reservationID": 9078,
+        "tenantID": 5018
+    },
+    {
+        "amenityID": 906,
+        "dateTime": "02/18/2020",
+        "durationHrs": 0.5,
+        "reservationID": 9079,
+        "tenantID": 5052
+    },
+    {
+        "amenityID": 901,
+        "dateTime": "09/15/2020",
+        "durationHrs": 3,
+        "reservationID": 9080,
+        "tenantID": 5045
+    },
+    {
+        "amenityID": 903,
+        "dateTime": "03/17/2020",
+        "durationHrs": 2.5,
+        "reservationID": 9081,
+        "tenantID": 5042
+    },
+    {
+        "amenityID": 906,
+        "dateTime": "05/10/2020",
+        "durationHrs": 2.5,
+        "reservationID": 9082,
+        "tenantID": 5021
+    },
+    {
+        "amenityID": 906,
+        "dateTime": "06/24/2020",
+        "durationHrs": 1,
+        "reservationID": 9083,
+        "tenantID": 5060
+    },
+    {
+        "amenityID": 904,
+        "dateTime": "04/10/2020",
+        "durationHrs": 3,
+        "reservationID": 9084,
+        "tenantID": 5069
+    },
+    {
+        "amenityID": 903,
+        "dateTime": "07/26/2020",
+        "durationHrs": 3,
+        "reservationID": 9085,
+        "tenantID": 5069
+    },
+    {
+        "amenityID": 902,
+        "dateTime": "12/26/2019",
+        "durationHrs": 2,
+        "reservationID": 9086,
+        "tenantID": 5022
+    },
+    {
+        "amenityID": 906,
+        "dateTime": "01/30/2020",
+        "durationHrs": 1.5,
+        "reservationID": 9087,
+        "tenantID": 5031
+    },
+    {
+        "amenityID": 902,
+        "dateTime": "07/27/2020",
+        "durationHrs": 3,
+        "reservationID": 9088,
+        "tenantID": 5007
+    },
+    {
+        "amenityID": 903,
+        "dateTime": "03/31/2020",
+        "durationHrs": 3,
+        "reservationID": 9089,
+        "tenantID": 5046
+    },
+    {
+        "amenityID": 903,
+        "dateTime": "11/10/2019",
+        "durationHrs": 1.5,
+        "reservationID": 9090,
+        "tenantID": 5023
+    },
+    {
+        "amenityID": 901,
+        "dateTime": "04/10/2020",
+        "durationHrs": 3,
+        "reservationID": 9091,
+        "tenantID": 5046
+    },
+    {
+        "amenityID": 903,
+        "dateTime": "06/25/2020",
+        "durationHrs": 0.5,
+        "reservationID": 9092,
+        "tenantID": 5064
+    },
+    {
+        "amenityID": 904,
+        "dateTime": "05/14/2020",
+        "durationHrs": 1,
+        "reservationID": 9093,
+        "tenantID": 5023
+    },
+    {
+        "amenityID": 904,
+        "dateTime": "11/23/2019",
+        "durationHrs": 1.5,
+        "reservationID": 9094,
+        "tenantID": 5047
+    },
+    {
+        "amenityID": 906,
+        "dateTime": "01/12/2020",
+        "durationHrs": 0.5,
+        "reservationID": 9095,
+        "tenantID": 5029
+    },
+    {
+        "amenityID": 901,
+        "dateTime": "07/14/2020",
+        "durationHrs": 3,
+        "reservationID": 9096,
+        "tenantID": 5063
+    },
+    {
+        "amenityID": 904,
+        "dateTime": "11/13/2019",
+        "durationHrs": 3,
+        "reservationID": 9097,
+        "tenantID": 5035
+    },
+    {
+        "amenityID": 906,
+        "dateTime": "03/26/2020",
+        "durationHrs": 1,
+        "reservationID": 9098,
+        "tenantID": 5017
+    },
+    {
+        "amenityID": 903,
+        "dateTime": "06/17/2020",
+        "durationHrs": 2.5,
+        "reservationID": 9099,
+        "tenantID": 5047
+    },
+    {
+        "amenityID": 906,
+        "dateTime": "07/08/2020",
+        "durationHrs": 3,
+        "reservationID": 9100,
+        "tenantID": 5057
+    },
+    {
+        "amenityID": 999,
+        "dateTime": "01/03/2018",
+        "durationHrs": 5,
+        "reservationID": 999999,
+        "tenantID": 4001
+    }
+]
