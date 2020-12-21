@@ -1,8 +1,8 @@
-### DB Project 2
+# DB Project 2
 
 A basic example showcasing an Mongo Database with server side rendering
 
-## Installation
+### Installation
 
 Clone the repository, then
 
