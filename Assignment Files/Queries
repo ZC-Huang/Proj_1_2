@@ -1,0 +1,13 @@
+db.inventory.insertMany([
+   { tenantID: 5005, firstName: "Mersey", lastName: "Isabell"},
+   { tenantID: 5008, firstName: "Ambrosio", lastName: "Boyford"},
+   { tenantID: 5010, firstName: "Binky", lastName: "Krimmer"},
+   { tenantID: 5025, firstName: "Benedict", lastName: "Barns"},
+   { tenantID: 5030, firstName: "Rosina", lastName: "Lindner"}
+]);
+
+
+db.tenants.find({firstName : "Mersey"}).forEach(printjson);
+
+
+db.AmenityReservations.find({"duration" : 1}).count() 
